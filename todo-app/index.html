@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Todo 웹앱</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <main class="app-shell">
+        <section class="todo-card">
+            <header class="todo-header">
+                <p class="eyebrow">MY DAILY FLOW</p>
+                <h1>할 일 관리</h1>
+                <p class="subtitle">오늘의 할 일을 추가하고 완료 상태를 관리해보세요.</p>
+            </header>
+
+            <section class="todo-input-area" aria-label="할 일 입력 영역">
+                <input
+                    id="todoInput"
+                    type="text"
+                    placeholder="예: 장보기, 운동 30분"
+                    autocomplete="off"
+                />
+                <button id="addTodoButton" class="primary-button">추가</button>
+            </section>
+
+            <section class="todo-actions" aria-label="할 일 액션 영역">
+                <p id="remainingCountText" class="remaining-count" aria-live="polite">남은 할 일: 0개</p>
+                <button id="clearAllButton" class="danger-button">전체 삭제</button>
+            </section>
+
+            <ul id="todoList" class="todo-list" aria-label="할 일 목록"></ul>
+        </section>
+    </main>
+
+    <script src="app.js" defer></script>
+</body>
+</html>
