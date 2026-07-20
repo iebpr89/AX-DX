@@ -1,0 +1,54 @@
+{
+    "info": {
+        "id": 14485618,
+        "type": "RT",
+        "material": "AL"
+    },
+    "image_data": {
+        "file_name": "RT_AL_00_14485618",
+        "format": "jpg",
+        "information": "정상",
+        "width": 3387,
+        "height": 951
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "normal"
+        ],
+        "total_case": [
+            "normal"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    0,
+                    489,
+                    1615,
+                    2811,
+                    3387,
+                    3387,
+                    2376,
+                    987,
+                    0
+                ],
+                "y": [
+                    428,
+                    441,
+                    458,
+                    441,
+                    436,
+                    299,
+                    333,
+                    329,
+                    312
+                ]
+            },
+            "class": "normal",
+            "case": ""
+        }
+    ]
+}

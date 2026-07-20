@@ -1,0 +1,90 @@
+{
+    "info": {
+        "id": 14518762,
+        "type": "RT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "RT_ST_01_14518762",
+        "format": "jpg",
+        "information": "균열",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "crack"
+        ],
+        "total_case": [
+            "crack",
+            "crack"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    437,
+                    509,
+                    569,
+                    637,
+                    677,
+                    789,
+                    853,
+                    889,
+                    873,
+                    785,
+                    689,
+                    621,
+                    485,
+                    405,
+                    369
+                ],
+                "y": [
+                    273,
+                    321,
+                    337,
+                    345,
+                    345,
+                    373,
+                    381,
+                    389,
+                    421,
+                    441,
+                    441,
+                    377,
+                    377,
+                    313,
+                    257
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    129,
+                    85,
+                    169,
+                    233,
+                    325,
+                    349
+                ],
+                "y": [
+                    581,
+                    545,
+                    533,
+                    557,
+                    609,
+                    649
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        }
+    ]
+}

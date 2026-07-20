@@ -1,0 +1,170 @@
+{
+    "info": {
+        "id": 14553000,
+        "type": "RT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "RT_ST_05_14553000",
+        "format": "jpg",
+        "information": "슬래그혼입",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "slag inclusion"
+        ],
+        "total_case": [
+            "slag inclusion",
+            "slag inclusion",
+            "slag inclusion",
+            "slag inclusion",
+            "slag inclusion",
+            "slag inclusion"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    872,
+                    912,
+                    892,
+                    840,
+                    828
+                ],
+                "y": [
+                    374,
+                    354,
+                    318,
+                    326,
+                    358
+                ]
+            },
+            "class": "defect",
+            "case": "slag inclusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    544,
+                    640,
+                    752,
+                    716,
+                    636,
+                    552
+                ],
+                "y": [
+                    374,
+                    386,
+                    374,
+                    334,
+                    346,
+                    346
+                ]
+            },
+            "class": "defect",
+            "case": "slag inclusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    104,
+                    264,
+                    364,
+                    424,
+                    380,
+                    300,
+                    240,
+                    192,
+                    148
+                ],
+                "y": [
+                    390,
+                    410,
+                    398,
+                    382,
+                    338,
+                    370,
+                    370,
+                    358,
+                    350
+                ]
+            },
+            "class": "defect",
+            "case": "slag inclusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    460,
+                    588,
+                    664,
+                    576,
+                    508,
+                    464
+                ],
+                "y": [
+                    558,
+                    522,
+                    478,
+                    486,
+                    494,
+                    530
+                ]
+            },
+            "class": "defect",
+            "case": "slag inclusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1112,
+                    1176,
+                    1196,
+                    1140,
+                    1088,
+                    1040
+                ],
+                "y": [
+                    534,
+                    498,
+                    462,
+                    478,
+                    494,
+                    554
+                ]
+            },
+            "class": "defect",
+            "case": "slag inclusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    496,
+                    484,
+                    440,
+                    460,
+                    484
+                ],
+                "y": [
+                    614,
+                    574,
+                    610,
+                    650,
+                    662
+                ]
+            },
+            "class": "defect",
+            "case": "slag inclusion"
+        }
+    ]
+}

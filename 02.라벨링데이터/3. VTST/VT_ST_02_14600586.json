@@ -1,0 +1,1416 @@
+{
+    "info": {
+        "id": 14600586,
+        "type": "VT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "VT_ST_02_14600586",
+        "format": "jpg",
+        "information": "기공",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "porosity"
+        ],
+        "total_case": [
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    579,
+                    575,
+                    574,
+                    579,
+                    585,
+                    585
+                ],
+                "y": [
+                    528,
+                    537,
+                    543,
+                    549,
+                    546,
+                    539
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    585,
+                    584,
+                    590,
+                    592
+                ],
+                "y": [
+                    526,
+                    532,
+                    536,
+                    530
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    579,
+                    573,
+                    578,
+                    584,
+                    587
+                ],
+                "y": [
+                    510,
+                    514,
+                    521,
+                    521,
+                    518
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    549,
+                    547,
+                    551,
+                    555,
+                    562
+                ],
+                "y": [
+                    490,
+                    496,
+                    503,
+                    504,
+                    499
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    628,
+                    627,
+                    626,
+                    635,
+                    637
+                ],
+                "y": [
+                    494,
+                    499,
+                    504,
+                    507,
+                    502
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    608,
+                    604,
+                    605,
+                    613,
+                    618
+                ],
+                "y": [
+                    510,
+                    514,
+                    521,
+                    523,
+                    518
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    625,
+                    624,
+                    622,
+                    628,
+                    635,
+                    631
+                ],
+                "y": [
+                    517,
+                    519,
+                    525,
+                    532,
+                    526,
+                    518
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    609,
+                    604,
+                    613,
+                    619,
+                    619
+                ],
+                "y": [
+                    530,
+                    539,
+                    543,
+                    537,
+                    532
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    619,
+                    613,
+                    611,
+                    626,
+                    626
+                ],
+                "y": [
+                    542,
+                    545,
+                    551,
+                    553,
+                    545
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    661,
+                    656,
+                    655,
+                    670,
+                    676,
+                    677
+                ],
+                "y": [
+                    514,
+                    520,
+                    529,
+                    532,
+                    526,
+                    518
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    644,
+                    642,
+                    650,
+                    657,
+                    655
+                ],
+                "y": [
+                    500,
+                    505,
+                    510,
+                    506,
+                    503
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    696,
+                    695,
+                    701,
+                    713,
+                    710
+                ],
+                "y": [
+                    508,
+                    512,
+                    523,
+                    521,
+                    512
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    725,
+                    723,
+                    721,
+                    725,
+                    736,
+                    739,
+                    736
+                ],
+                "y": [
+                    505,
+                    508,
+                    513,
+                    519,
+                    520,
+                    512,
+                    504
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    743,
+                    740,
+                    747,
+                    754,
+                    758,
+                    753
+                ],
+                "y": [
+                    518,
+                    523,
+                    527,
+                    527,
+                    520,
+                    517
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    776,
+                    771,
+                    768,
+                    776,
+                    782
+                ],
+                "y": [
+                    526,
+                    527,
+                    534,
+                    533,
+                    530
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    749,
+                    756,
+                    763,
+                    763,
+                    762
+                ],
+                "y": [
+                    468,
+                    472,
+                    469,
+                    461,
+                    459
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    835,
+                    829,
+                    823,
+                    821,
+                    818,
+                    819,
+                    826,
+                    832,
+                    836
+                ],
+                "y": [
+                    470,
+                    470,
+                    470,
+                    470,
+                    472,
+                    477,
+                    480,
+                    480,
+                    480
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    881,
+                    882,
+                    883,
+                    898,
+                    898,
+                    893
+                ],
+                "y": [
+                    472,
+                    479,
+                    483,
+                    483,
+                    472,
+                    470
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    892,
+                    889,
+                    887,
+                    892,
+                    904,
+                    909,
+                    907
+                ],
+                "y": [
+                    494,
+                    498,
+                    508,
+                    511,
+                    512,
+                    503,
+                    498
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    910,
+                    909,
+                    917,
+                    921,
+                    921
+                ],
+                "y": [
+                    480,
+                    490,
+                    494,
+                    488,
+                    481
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    923,
+                    917,
+                    922,
+                    928,
+                    931,
+                    931
+                ],
+                "y": [
+                    490,
+                    497,
+                    505,
+                    503,
+                    495,
+                    489
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    941,
+                    938,
+                    936,
+                    942,
+                    949,
+                    953,
+                    954
+                ],
+                "y": [
+                    468,
+                    469,
+                    477,
+                    485,
+                    485,
+                    482,
+                    477
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    967,
+                    963,
+                    959,
+                    957,
+                    960,
+                    971,
+                    977,
+                    980
+                ],
+                "y": [
+                    460,
+                    461,
+                    464,
+                    471,
+                    477,
+                    480,
+                    476,
+                    469
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    976,
+                    975,
+                    985,
+                    990,
+                    988
+                ],
+                "y": [
+                    448,
+                    453,
+                    457,
+                    448,
+                    448
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    970,
+                    966,
+                    960,
+                    957,
+                    964,
+                    975,
+                    977
+                ],
+                "y": [
+                    483,
+                    483,
+                    489,
+                    500,
+                    506,
+                    504,
+                    498
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    946,
+                    943,
+                    946,
+                    962,
+                    964
+                ],
+                "y": [
+                    503,
+                    507,
+                    514,
+                    518,
+                    508
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    892,
+                    889,
+                    888,
+                    893,
+                    914,
+                    919
+                ],
+                "y": [
+                    518,
+                    523,
+                    527,
+                    533,
+                    527,
+                    520
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    994,
+                    990,
+                    992,
+                    1001,
+                    1004,
+                    1000
+                ],
+                "y": [
+                    505,
+                    512,
+                    520,
+                    518,
+                    510,
+                    505
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1044,
+                    1039,
+                    1035,
+                    1037,
+                    1046,
+                    1057,
+                    1058,
+                    1052
+                ],
+                "y": [
+                    473,
+                    474,
+                    481,
+                    487,
+                    491,
+                    487,
+                    481,
+                    476
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1054,
+                    1045,
+                    1042,
+                    1042,
+                    1043,
+                    1041,
+                    1042,
+                    1045,
+                    1049,
+                    1053,
+                    1057,
+                    1058
+                ],
+                "y": [
+                    493,
+                    494,
+                    497,
+                    499,
+                    500,
+                    508,
+                    509,
+                    511,
+                    511,
+                    507,
+                    504,
+                    501
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1063,
+                    1060,
+                    1055,
+                    1054,
+                    1051,
+                    1050,
+                    1054,
+                    1057,
+                    1064,
+                    1069,
+                    1070
+                ],
+                "y": [
+                    504,
+                    504,
+                    509,
+                    511,
+                    515,
+                    518,
+                    520,
+                    519,
+                    517,
+                    513,
+                    509
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1063,
+                    1059,
+                    1055,
+                    1052,
+                    1050,
+                    1053,
+                    1057,
+                    1064,
+                    1069,
+                    1070
+                ],
+                "y": [
+                    524,
+                    524,
+                    524,
+                    529,
+                    536,
+                    542,
+                    543,
+                    539,
+                    535,
+                    528
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1103,
+                    1098,
+                    1082,
+                    1078,
+                    1080,
+                    1089,
+                    1097,
+                    1106
+                ],
+                "y": [
+                    523,
+                    523,
+                    524,
+                    531,
+                    536,
+                    539,
+                    534,
+                    529
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1095,
+                    1090,
+                    1088,
+                    1088,
+                    1091,
+                    1100,
+                    1108,
+                    1111,
+                    1110
+                ],
+                "y": [
+                    475,
+                    477,
+                    480,
+                    487,
+                    495,
+                    497,
+                    490,
+                    483,
+                    479
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1115,
+                    1114,
+                    1115,
+                    1124,
+                    1127,
+                    1124
+                ],
+                "y": [
+                    466,
+                    475,
+                    482,
+                    481,
+                    476,
+                    467
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1131,
+                    1125,
+                    1121,
+                    1118,
+                    1117,
+                    1118,
+                    1118,
+                    1117,
+                    1120,
+                    1121,
+                    1124,
+                    1127,
+                    1134,
+                    1139,
+                    1141,
+                    1137,
+                    1130,
+                    1127,
+                    1124,
+                    1129,
+                    1132,
+                    1134,
+                    1137
+                ],
+                "y": [
+                    482,
+                    483,
+                    486,
+                    489,
+                    497,
+                    500,
+                    506,
+                    512,
+                    522,
+                    523,
+                    525,
+                    526,
+                    525,
+                    518,
+                    511,
+                    508,
+                    506,
+                    503,
+                    498,
+                    497,
+                    491,
+                    485,
+                    484
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1145,
+                    1142,
+                    1138,
+                    1137,
+                    1140,
+                    1146,
+                    1149
+                ],
+                "y": [
+                    487,
+                    488,
+                    491,
+                    498,
+                    503,
+                    500,
+                    494
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1170,
+                    1163,
+                    1159,
+                    1167,
+                    1172,
+                    1172
+                ],
+                "y": [
+                    457,
+                    460,
+                    463,
+                    468,
+                    465,
+                    462
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1167,
+                    1164,
+                    1160,
+                    1162,
+                    1167,
+                    1173,
+                    1180,
+                    1177
+                ],
+                "y": [
+                    479,
+                    483,
+                    487,
+                    491,
+                    491,
+                    490,
+                    486,
+                    481
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1201,
+                    1195,
+                    1192,
+                    1195,
+                    1202,
+                    1203
+                ],
+                "y": [
+                    473,
+                    475,
+                    480,
+                    484,
+                    483,
+                    476
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1206,
+                    1204,
+                    1204,
+                    1206,
+                    1210,
+                    1218,
+                    1214
+                ],
+                "y": [
+                    487,
+                    489,
+                    494,
+                    496,
+                    497,
+                    492,
+                    486
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1197,
+                    1194,
+                    1195,
+                    1205,
+                    1206,
+                    1204
+                ],
+                "y": [
+                    496,
+                    501,
+                    507,
+                    504,
+                    500,
+                    497
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1175,
+                    1174,
+                    1175,
+                    1185,
+                    1190,
+                    1185
+                ],
+                "y": [
+                    498,
+                    508,
+                    514,
+                    514,
+                    508,
+                    500
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1167,
+                    1155,
+                    1150,
+                    1152,
+                    1160,
+                    1169
+                ],
+                "y": [
+                    504,
+                    503,
+                    506,
+                    515,
+                    515,
+                    513
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1169,
+                    1163,
+                    1162,
+                    1165,
+                    1176,
+                    1178
+                ],
+                "y": [
+                    527,
+                    529,
+                    538,
+                    542,
+                    541,
+                    532
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1181,
+                    1180,
+                    1179,
+                    1173,
+                    1169,
+                    1172,
+                    1175,
+                    1183,
+                    1185
+                ],
+                "y": [
+                    560,
+                    560,
+                    560,
+                    562,
+                    565,
+                    571,
+                    572,
+                    572,
+                    566
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1195,
+                    1199,
+                    1206,
+                    1205
+                ],
+                "y": [
+                    550,
+                    552,
+                    551,
+                    545
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1212,
+                    1209,
+                    1210,
+                    1216,
+                    1220,
+                    1220
+                ],
+                "y": [
+                    518,
+                    525,
+                    531,
+                    531,
+                    526,
+                    524
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1228,
+                    1223,
+                    1219,
+                    1222,
+                    1232,
+                    1234
+                ],
+                "y": [
+                    501,
+                    504,
+                    507,
+                    515,
+                    516,
+                    512
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1241,
+                    1237,
+                    1232,
+                    1232,
+                    1232,
+                    1236,
+                    1241,
+                    1248,
+                    1248
+                ],
+                "y": [
+                    517,
+                    519,
+                    525,
+                    527,
+                    529,
+                    532,
+                    532,
+                    525,
+                    522
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1241,
+                    1241,
+                    1235,
+                    1233,
+                    1232,
+                    1235,
+                    1242
+                ],
+                "y": [
+                    535,
+                    535,
+                    536,
+                    537,
+                    540,
+                    542,
+                    539
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1248,
+                    1246,
+                    1246,
+                    1250,
+                    1255,
+                    1256
+                ],
+                "y": [
+                    538,
+                    541,
+                    546,
+                    547,
+                    545,
+                    541
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1259,
+                    1256,
+                    1255,
+                    1257,
+                    1263,
+                    1264
+                ],
+                "y": [
+                    527,
+                    528,
+                    533,
+                    536,
+                    535,
+                    529
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1265,
+                    1260,
+                    1257,
+                    1257,
+                    1264,
+                    1269,
+                    1271,
+                    1277,
+                    1280,
+                    1278,
+                    1276,
+                    1275
+                ],
+                "y": [
+                    501,
+                    501,
+                    505,
+                    512,
+                    514,
+                    509,
+                    509,
+                    509,
+                    505,
+                    498,
+                    497,
+                    497
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        }
+    ]
+}

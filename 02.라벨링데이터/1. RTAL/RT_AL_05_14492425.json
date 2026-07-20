@@ -1,0 +1,124 @@
+{
+    "info": {
+        "id": 14492425,
+        "type": "RT",
+        "material": "AL"
+    },
+    "image_data": {
+        "file_name": "RT_AL_05_14492425",
+        "format": "jpg",
+        "information": "슬래그혼입",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "slag inclusion"
+        ],
+        "total_case": [
+            "slag inclusion",
+            "slag inclusion",
+            "slag inclusion",
+            "slag inclusion"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1069,
+                    1093,
+                    1133,
+                    1165,
+                    1153,
+                    1121
+                ],
+                "y": [
+                    415,
+                    451,
+                    455,
+                    435,
+                    403,
+                    399
+                ]
+            },
+            "class": "defect",
+            "case": "slag inclusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    593,
+                    597,
+                    625,
+                    673,
+                    677,
+                    661,
+                    649
+                ],
+                "y": [
+                    343,
+                    367,
+                    383,
+                    391,
+                    347,
+                    343,
+                    343
+                ]
+            },
+            "class": "defect",
+            "case": "slag inclusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    221,
+                    241,
+                    269,
+                    277,
+                    273,
+                    249,
+                    217
+                ],
+                "y": [
+                    231,
+                    251,
+                    255,
+                    235,
+                    207,
+                    195,
+                    195
+                ]
+            },
+            "class": "defect",
+            "case": "slag inclusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    281,
+                    281,
+                    313,
+                    345,
+                    345,
+                    313
+                ],
+                "y": [
+                    115,
+                    151,
+                    163,
+                    163,
+                    119,
+                    111
+                ]
+            },
+            "class": "defect",
+            "case": "slag inclusion"
+        }
+    ]
+}

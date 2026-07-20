@@ -1,0 +1,100 @@
+{
+    "info": {
+        "id": 14489622,
+        "type": "RT",
+        "material": "AL"
+    },
+    "image_data": {
+        "file_name": "RT_AL_02_14489622",
+        "format": "jpg",
+        "information": "기공",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "porosity"
+        ],
+        "total_case": [
+            "porosity",
+            "porosity"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    648,
+                    642,
+                    635,
+                    631,
+                    629,
+                    629,
+                    638,
+                    649,
+                    649,
+                    653,
+                    657,
+                    664,
+                    663,
+                    662,
+                    659
+                ],
+                "y": [
+                    291,
+                    290,
+                    294,
+                    298,
+                    303,
+                    309,
+                    312,
+                    315,
+                    317,
+                    319,
+                    322,
+                    316,
+                    307,
+                    299,
+                    295
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    600,
+                    595,
+                    597,
+                    601,
+                    606,
+                    616,
+                    617,
+                    618,
+                    618,
+                    612,
+                    609
+                ],
+                "y": [
+                    368,
+                    381,
+                    385,
+                    387,
+                    384,
+                    373,
+                    371,
+                    364,
+                    362,
+                    360,
+                    360
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        }
+    ]
+}

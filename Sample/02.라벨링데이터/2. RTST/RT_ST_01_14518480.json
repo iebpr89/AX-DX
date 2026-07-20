@@ -1,0 +1,92 @@
+{
+    "info": {
+        "id": 14518480,
+        "type": "RT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "RT_ST_01_14518480",
+        "format": "jpg",
+        "information": "균열",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "crack"
+        ],
+        "total_case": [
+            "crack",
+            "crack"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    562,
+                    594,
+                    608,
+                    594,
+                    584,
+                    668,
+                    702,
+                    702,
+                    688,
+                    674,
+                    660
+                ],
+                "y": [
+                    137,
+                    237,
+                    353,
+                    485,
+                    579,
+                    667,
+                    545,
+                    381,
+                    251,
+                    171,
+                    151
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1158,
+                    1124,
+                    1122,
+                    1082,
+                    1054,
+                    1018,
+                    1014,
+                    1032,
+                    1046,
+                    1086,
+                    1150
+                ],
+                "y": [
+                    447,
+                    343,
+                    243,
+                    143,
+                    175,
+                    315,
+                    423,
+                    527,
+                    613,
+                    713,
+                    701
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        }
+    ]
+}

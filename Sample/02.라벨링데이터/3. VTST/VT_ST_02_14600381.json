@@ -1,0 +1,100 @@
+{
+    "info": {
+        "id": 14600381,
+        "type": "VT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "VT_ST_02_14600381",
+        "format": "jpg",
+        "information": "기공",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "porosity"
+        ],
+        "total_case": [
+            "porosity",
+            "porosity"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    617,
+                    616,
+                    616,
+                    617,
+                    625,
+                    630,
+                    630,
+                    628
+                ],
+                "y": [
+                    503,
+                    506,
+                    516,
+                    517,
+                    517,
+                    514,
+                    506,
+                    503
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    385,
+                    384,
+                    384,
+                    385,
+                    388,
+                    392,
+                    392,
+                    394,
+                    404,
+                    412,
+                    414,
+                    422,
+                    422,
+                    420,
+                    420,
+                    416,
+                    414,
+                    412
+                ],
+                "y": [
+                    616,
+                    617,
+                    652,
+                    653,
+                    653,
+                    658,
+                    660,
+                    661,
+                    661,
+                    653,
+                    653,
+                    645,
+                    625,
+                    624,
+                    622,
+                    617,
+                    617,
+                    616
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        }
+    ]
+}

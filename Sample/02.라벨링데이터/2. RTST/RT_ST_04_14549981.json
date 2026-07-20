@@ -1,0 +1,94 @@
+{
+    "info": {
+        "id": 14549981,
+        "type": "RT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "RT_ST_04_14549981",
+        "format": "jpg",
+        "information": "융합불량",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "lack of fusion"
+        ],
+        "total_case": [
+            "lack of fusion",
+            "lack of fusion",
+            "lack of fusion"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    750,
+                    626,
+                    582,
+                    534,
+                    514,
+                    550,
+                    658,
+                    762,
+                    778
+                ],
+                "y": [
+                    400,
+                    408,
+                    424,
+                    424,
+                    348,
+                    308,
+                    288,
+                    300,
+                    340
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    346,
+                    238,
+                    170,
+                    162,
+                    270
+                ],
+                "y": [
+                    356,
+                    384,
+                    364,
+                    308,
+                    316
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    222,
+                    238,
+                    222
+                ],
+                "y": [
+                    468,
+                    468,
+                    468
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        }
+    ]
+}

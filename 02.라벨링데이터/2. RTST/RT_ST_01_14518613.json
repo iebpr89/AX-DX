@@ -1,0 +1,70 @@
+{
+    "info": {
+        "id": 14518613,
+        "type": "RT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "RT_ST_01_14518613",
+        "format": "jpg",
+        "information": "균열",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "crack"
+        ],
+        "total_case": [
+            "crack",
+            "crack"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    462,
+                    374,
+                    310,
+                    302,
+                    382
+                ],
+                "y": [
+                    397,
+                    325,
+                    309,
+                    349,
+                    417
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    446,
+                    358,
+                    254,
+                    182,
+                    190,
+                    358
+                ],
+                "y": [
+                    93,
+                    45,
+                    5,
+                    21,
+                    53,
+                    93
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        }
+    ]
+}

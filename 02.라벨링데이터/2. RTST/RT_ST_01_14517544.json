@@ -1,0 +1,162 @@
+{
+    "info": {
+        "id": 14517544,
+        "type": "RT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "RT_ST_01_14517544",
+        "format": "jpg",
+        "information": "균열",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "crack"
+        ],
+        "total_case": [
+            "crack",
+            "crack",
+            "crack",
+            "crack",
+            "crack",
+            "crack"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    423,
+                    443,
+                    471,
+                    475,
+                    427
+                ],
+                "y": [
+                    170,
+                    254,
+                    374,
+                    274,
+                    134
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    35,
+                    119,
+                    123,
+                    79,
+                    31,
+                    19
+                ],
+                "y": [
+                    6,
+                    198,
+                    306,
+                    202,
+                    142,
+                    6
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    39,
+                    143,
+                    115,
+                    103,
+                    91,
+                    27
+                ],
+                "y": [
+                    234,
+                    414,
+                    526,
+                    426,
+                    366,
+                    250
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    527,
+                    543,
+                    575,
+                    563,
+                    527
+                ],
+                "y": [
+                    310,
+                    354,
+                    482,
+                    378,
+                    274
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    587,
+                    647,
+                    719,
+                    647,
+                    603
+                ],
+                "y": [
+                    330,
+                    354,
+                    438,
+                    394,
+                    358
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    739,
+                    835,
+                    855,
+                    831,
+                    811,
+                    727
+                ],
+                "y": [
+                    390,
+                    466,
+                    646,
+                    578,
+                    474,
+                    390
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        }
+    ]
+}

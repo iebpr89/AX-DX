@@ -1,0 +1,130 @@
+{
+    "info": {
+        "id": 14550806,
+        "type": "RT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "RT_ST_04_14550806",
+        "format": "jpg",
+        "information": "융합불량",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "lack of fusion"
+        ],
+        "total_case": [
+            "lack of fusion",
+            "lack of fusion",
+            "lack of fusion",
+            "lack of fusion"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    602,
+                    538,
+                    502,
+                    530,
+                    562,
+                    586,
+                    594
+                ],
+                "y": [
+                    348,
+                    332,
+                    356,
+                    368,
+                    376,
+                    376,
+                    360
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1134,
+                    906,
+                    826,
+                    786,
+                    758,
+                    762,
+                    842,
+                    1030,
+                    1082,
+                    1114
+                ],
+                "y": [
+                    348,
+                    348,
+                    348,
+                    348,
+                    352,
+                    372,
+                    376,
+                    376,
+                    380,
+                    368
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    498,
+                    382,
+                    346,
+                    502,
+                    510
+                ],
+                "y": [
+                    336,
+                    360,
+                    376,
+                    372,
+                    336
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    230,
+                    170,
+                    130,
+                    114,
+                    110,
+                    118,
+                    198
+                ],
+                "y": [
+                    368,
+                    348,
+                    348,
+                    352,
+                    364,
+                    384,
+                    388
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        }
+    ]
+}

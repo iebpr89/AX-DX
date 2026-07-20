@@ -1,0 +1,88 @@
+{
+    "info": {
+        "id": 14518825,
+        "type": "RT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "RT_ST_01_14518825",
+        "format": "jpg",
+        "information": "균열",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "crack"
+        ],
+        "total_case": [
+            "crack",
+            "crack"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    540,
+                    552,
+                    542,
+                    560,
+                    578,
+                    660,
+                    612,
+                    606,
+                    628,
+                    608
+                ],
+                "y": [
+                    177,
+                    343,
+                    447,
+                    555,
+                    601,
+                    539,
+                    369,
+                    281,
+                    169,
+                    119
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1044,
+                    1060,
+                    1036,
+                    1030,
+                    1048,
+                    1090,
+                    1108,
+                    1108,
+                    1118,
+                    1078
+                ],
+                "y": [
+                    65,
+                    151,
+                    379,
+                    475,
+                    527,
+                    481,
+                    379,
+                    225,
+                    121,
+                    25
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        }
+    ]
+}

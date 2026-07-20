@@ -1,0 +1,170 @@
+{
+    "info": {
+        "id": 14549116,
+        "type": "RT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "RT_ST_04_14549116",
+        "format": "jpg",
+        "information": "융합불량",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "lack of fusion"
+        ],
+        "total_case": [
+            "lack of fusion",
+            "lack of fusion",
+            "lack of fusion",
+            "lack of fusion"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    230,
+                    214,
+                    190,
+                    170,
+                    146,
+                    110,
+                    142,
+                    174,
+                    226,
+                    254,
+                    262,
+                    266,
+                    258
+                ],
+                "y": [
+                    547,
+                    515,
+                    507,
+                    511,
+                    519,
+                    503,
+                    487,
+                    475,
+                    479,
+                    479,
+                    495,
+                    523,
+                    535
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    870,
+                    826,
+                    774,
+                    698,
+                    634,
+                    602,
+                    618,
+                    698,
+                    778,
+                    834,
+                    890,
+                    910,
+                    930,
+                    922
+                ],
+                "y": [
+                    67,
+                    71,
+                    79,
+                    79,
+                    71,
+                    55,
+                    31,
+                    11,
+                    3,
+                    3,
+                    19,
+                    35,
+                    63,
+                    87
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    446,
+                    430,
+                    414,
+                    418,
+                    442,
+                    470,
+                    502,
+                    546,
+                    550,
+                    542,
+                    514,
+                    498,
+                    470
+                ],
+                "y": [
+                    391,
+                    391,
+                    387,
+                    351,
+                    331,
+                    319,
+                    323,
+                    347,
+                    371,
+                    375,
+                    359,
+                    359,
+                    367
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    662,
+                    638,
+                    614,
+                    606,
+                    622,
+                    650,
+                    682,
+                    690,
+                    706
+                ],
+                "y": [
+                    527,
+                    527,
+                    523,
+                    507,
+                    491,
+                    487,
+                    487,
+                    499,
+                    523
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        }
+    ]
+}

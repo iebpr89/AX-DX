@@ -1,0 +1,146 @@
+{
+    "info": {
+        "id": 14490231,
+        "type": "RT",
+        "material": "AL"
+    },
+    "image_data": {
+        "file_name": "RT_AL_02_14490231",
+        "format": "jpg",
+        "information": "기공",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "porosity"
+        ],
+        "total_case": [
+            "porosity",
+            "porosity",
+            "porosity",
+            "porosity"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    627,
+                    628,
+                    630,
+                    668,
+                    670,
+                    674,
+                    674,
+                    672,
+                    668,
+                    643,
+                    633,
+                    628
+                ],
+                "y": [
+                    329,
+                    322,
+                    317,
+                    311,
+                    313,
+                    324,
+                    333,
+                    342,
+                    347,
+                    347,
+                    342,
+                    338
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    223,
+                    224,
+                    232,
+                    235,
+                    236,
+                    236,
+                    229,
+                    223
+                ],
+                "y": [
+                    115,
+                    108,
+                    103,
+                    106,
+                    109,
+                    125,
+                    128,
+                    122
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    406,
+                    407,
+                    409,
+                    421,
+                    425,
+                    425,
+                    421,
+                    410
+                ],
+                "y": [
+                    174,
+                    167,
+                    164,
+                    164,
+                    169,
+                    174,
+                    177,
+                    176
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    264,
+                    265,
+                    273,
+                    277,
+                    279,
+                    279,
+                    277,
+                    274,
+                    264
+                ],
+                "y": [
+                    335,
+                    320,
+                    310,
+                    313,
+                    318,
+                    327,
+                    336,
+                    340,
+                    339
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        }
+    ]
+}

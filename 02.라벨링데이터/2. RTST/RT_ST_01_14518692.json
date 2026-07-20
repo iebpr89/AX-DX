@@ -1,0 +1,116 @@
+{
+    "info": {
+        "id": 14518692,
+        "type": "RT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "RT_ST_01_14518692",
+        "format": "jpg",
+        "information": "균열",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "crack"
+        ],
+        "total_case": [
+            "crack",
+            "crack",
+            "crack"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    683,
+                    667,
+                    643,
+                    611,
+                    603,
+                    603,
+                    667
+                ],
+                "y": [
+                    5,
+                    61,
+                    109,
+                    181,
+                    217,
+                    161,
+                    29
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    679,
+                    683,
+                    687,
+                    695,
+                    699,
+                    703,
+                    691,
+                    687,
+                    687,
+                    679,
+                    679,
+                    671
+                ],
+                "y": [
+                    353,
+                    309,
+                    253,
+                    197,
+                    165,
+                    133,
+                    53,
+                    109,
+                    161,
+                    217,
+                    269,
+                    317
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    139,
+                    147,
+                    139,
+                    115,
+                    99,
+                    87,
+                    103,
+                    123,
+                    139
+                ],
+                "y": [
+                    181,
+                    233,
+                    297,
+                    357,
+                    437,
+                    445,
+                    393,
+                    317,
+                    249
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "info": {
+        "id": 14488212,
+        "type": "RT",
+        "material": "AL"
+    },
+    "image_data": {
+        "file_name": "RT_AL_02_14488212",
+        "format": "jpg",
+        "information": "기공",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "porosity"
+        ],
+        "total_case": [
+            "porosity"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    680,
+                    653,
+                    645,
+                    633,
+                    632,
+                    651,
+                    670,
+                    695,
+                    704,
+                    705
+                ],
+                "y": [
+                    314,
+                    332,
+                    341,
+                    363,
+                    380,
+                    389,
+                    389,
+                    367,
+                    351,
+                    322
+                ]
+            },
+            "class": "defect",
+            "case": "porosity"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "info": {
+        "id": 14624472,
+        "type": "VT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "VT_ST_06_14624472",
+        "format": "jpg",
+        "information": "언더컷",
+        "width": 720,
+        "height": 1280
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "undercut"
+        ],
+        "total_case": [
+            "undercut",
+            "undercut"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    121,
+                    164,
+                    215,
+                    239,
+                    266,
+                    278,
+                    286,
+                    266,
+                    244,
+                    230,
+                    216,
+                    203,
+                    193,
+                    156
+                ],
+                "y": [
+                    800,
+                    817,
+                    828,
+                    820,
+                    792,
+                    770,
+                    732,
+                    754,
+                    779,
+                    789,
+                    798,
+                    804,
+                    804,
+                    800
+                ]
+            },
+            "class": "defect",
+            "case": "undercut"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    615,
+                    568,
+                    590,
+                    607,
+                    628,
+                    644,
+                    658,
+                    645,
+                    639
+                ],
+                "y": [
+                    711,
+                    709,
+                    718,
+                    726,
+                    724,
+                    725,
+                    724,
+                    714,
+                    710
+                ]
+            },
+            "class": "defect",
+            "case": "undercut"
+        }
+    ]
+}

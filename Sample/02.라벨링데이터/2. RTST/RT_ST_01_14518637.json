@@ -1,0 +1,122 @@
+{
+    "info": {
+        "id": 14518637,
+        "type": "RT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "RT_ST_01_14518637",
+        "format": "jpg",
+        "information": "균열",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "crack"
+        ],
+        "total_case": [
+            "crack",
+            "crack",
+            "crack"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    108,
+                    104,
+                    112,
+                    120,
+                    124,
+                    116
+                ],
+                "y": [
+                    251,
+                    311,
+                    359,
+                    411,
+                    383,
+                    307
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    4,
+                    28,
+                    28,
+                    40,
+                    48,
+                    56,
+                    44,
+                    44,
+                    28
+                ],
+                "y": [
+                    147,
+                    231,
+                    323,
+                    399,
+                    479,
+                    431,
+                    355,
+                    271,
+                    175
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    780,
+                    736,
+                    732,
+                    716,
+                    752,
+                    732,
+                    732,
+                    712,
+                    700,
+                    704,
+                    724,
+                    720,
+                    740,
+                    700,
+                    712,
+                    724
+                ],
+                "y": [
+                    67,
+                    167,
+                    227,
+                    291,
+                    347,
+                    447,
+                    543,
+                    667,
+                    715,
+                    663,
+                    539,
+                    451,
+                    363,
+                    291,
+                    223,
+                    155
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        }
+    ]
+}

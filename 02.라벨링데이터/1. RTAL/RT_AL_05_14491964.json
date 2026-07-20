@@ -1,0 +1,72 @@
+{
+    "info": {
+        "id": 14491964,
+        "type": "RT",
+        "material": "AL"
+    },
+    "image_data": {
+        "file_name": "RT_AL_05_14491964",
+        "format": "jpg",
+        "information": "슬래그혼입",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "slag inclusion"
+        ],
+        "total_case": [
+            "slag inclusion",
+            "slag inclusion"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    606,
+                    606,
+                    626,
+                    666,
+                    666,
+                    666
+                ],
+                "y": [
+                    333,
+                    377,
+                    385,
+                    389,
+                    345,
+                    329
+                ]
+            },
+            "class": "defect",
+            "case": "slag inclusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    726,
+                    738,
+                    770,
+                    790,
+                    786,
+                    762
+                ],
+                "y": [
+                    625,
+                    645,
+                    649,
+                    637,
+                    601,
+                    585
+                ]
+            },
+            "class": "defect",
+            "case": "slag inclusion"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "info": {
+        "id": 14624502,
+        "type": "VT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "VT_ST_06_14624502",
+        "format": "jpg",
+        "information": "언더컷",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "undercut"
+        ],
+        "total_case": [
+            "undercut",
+            "undercut",
+            "undercut"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    119,
+                    134,
+                    149,
+                    161,
+                    177,
+                    198,
+                    211,
+                    199,
+                    179,
+                    151,
+                    144
+                ],
+                "y": [
+                    278,
+                    263,
+                    253,
+                    252,
+                    250,
+                    255,
+                    260,
+                    265,
+                    265,
+                    266,
+                    269
+                ]
+            },
+            "class": "defect",
+            "case": "undercut"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    588,
+                    599,
+                    626,
+                    652,
+                    686,
+                    716,
+                    740,
+                    748,
+                    720,
+                    693,
+                    681,
+                    663,
+                    644
+                ],
+                "y": [
+                    237,
+                    222,
+                    214,
+                    213,
+                    215,
+                    218,
+                    228,
+                    234,
+                    229,
+                    230,
+                    234,
+                    225,
+                    225
+                ]
+            },
+            "class": "defect",
+            "case": "undercut"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    1280,
+                    1255,
+                    1235,
+                    1223,
+                    1199,
+                    1220,
+                    1236,
+                    1245,
+                    1252,
+                    1269,
+                    1280
+                ],
+                "y": [
+                    236,
+                    236,
+                    239,
+                    242,
+                    254,
+                    255,
+                    258,
+                    265,
+                    270,
+                    276,
+                    279
+                ]
+            },
+            "class": "defect",
+            "case": "undercut"
+        }
+    ]
+}

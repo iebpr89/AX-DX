@@ -1,0 +1,96 @@
+{
+    "info": {
+        "id": 14518650,
+        "type": "RT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "RT_ST_01_14518650",
+        "format": "jpg",
+        "information": "균열",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "crack"
+        ],
+        "total_case": [
+            "crack",
+            "crack"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    651,
+                    651,
+                    663,
+                    683,
+                    671,
+                    647,
+                    619,
+                    627,
+                    639,
+                    599,
+                    599,
+                    631
+                ],
+                "y": [
+                    206,
+                    282,
+                    350,
+                    418,
+                    506,
+                    582,
+                    574,
+                    470,
+                    390,
+                    274,
+                    150,
+                    110
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    235,
+                    215,
+                    203,
+                    191,
+                    179,
+                    143,
+                    147,
+                    163,
+                    171,
+                    167,
+                    151,
+                    199
+                ],
+                "y": [
+                    286,
+                    354,
+                    450,
+                    542,
+                    642,
+                    626,
+                    526,
+                    430,
+                    346,
+                    274,
+                    198,
+                    186
+                ]
+            },
+            "class": "defect",
+            "case": "crack"
+        }
+    ]
+}

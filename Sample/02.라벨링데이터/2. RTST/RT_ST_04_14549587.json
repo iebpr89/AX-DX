@@ -1,0 +1,64 @@
+{
+    "info": {
+        "id": 14549587,
+        "type": "RT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "RT_ST_04_14549587",
+        "format": "jpg",
+        "information": "융합불량",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "lack of fusion"
+        ],
+        "total_case": [
+            "lack of fusion"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    944,
+                    596,
+                    424,
+                    352,
+                    360,
+                    416,
+                    492,
+                    572,
+                    652,
+                    748,
+                    788,
+                    824,
+                    864,
+                    928
+                ],
+                "y": [
+                    417,
+                    417,
+                    393,
+                    361,
+                    337,
+                    337,
+                    345,
+                    345,
+                    345,
+                    345,
+                    345,
+                    345,
+                    345,
+                    361
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        }
+    ]
+}

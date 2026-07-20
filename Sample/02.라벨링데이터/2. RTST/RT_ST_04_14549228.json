@@ -1,0 +1,162 @@
+{
+    "info": {
+        "id": 14549228,
+        "type": "RT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "RT_ST_04_14549228",
+        "format": "jpg",
+        "information": "융합불량",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "lack of fusion"
+        ],
+        "total_case": [
+            "lack of fusion",
+            "lack of fusion",
+            "lack of fusion",
+            "lack of fusion"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    662,
+                    674,
+                    718,
+                    770,
+                    842,
+                    886,
+                    970,
+                    1050,
+                    1078,
+                    1094,
+                    1002,
+                    954,
+                    938,
+                    890,
+                    858
+                ],
+                "y": [
+                    67,
+                    107,
+                    139,
+                    159,
+                    175,
+                    175,
+                    179,
+                    119,
+                    79,
+                    35,
+                    35,
+                    55,
+                    47,
+                    27,
+                    19
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    734,
+                    706,
+                    702,
+                    762,
+                    806,
+                    866,
+                    914,
+                    1010,
+                    1070,
+                    1130,
+                    1146,
+                    1062,
+                    1022
+                ],
+                "y": [
+                    443,
+                    463,
+                    471,
+                    495,
+                    503,
+                    531,
+                    539,
+                    527,
+                    507,
+                    463,
+                    431,
+                    427,
+                    443
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    194,
+                    166,
+                    162,
+                    338,
+                    698,
+                    778,
+                    902,
+                    1034,
+                    1094,
+                    1030
+                ],
+                "y": [
+                    339,
+                    347,
+                    351,
+                    371,
+                    379,
+                    379,
+                    375,
+                    375,
+                    347,
+                    335
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        },
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    434,
+                    358,
+                    342,
+                    470,
+                    718,
+                    850,
+                    854
+                ],
+                "y": [
+                    571,
+                    571,
+                    583,
+                    591,
+                    595,
+                    595,
+                    563
+                ]
+            },
+            "class": "defect",
+            "case": "lack of fusion"
+        }
+    ]
+}

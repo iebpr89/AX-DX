@@ -1,0 +1,54 @@
+{
+    "info": {
+        "id": 14553167,
+        "type": "RT",
+        "material": "ST"
+    },
+    "image_data": {
+        "file_name": "RT_ST_05_14553167",
+        "format": "jpg",
+        "information": "슬래그혼입",
+        "width": 1280,
+        "height": 720
+    },
+    "meta": {
+        "is_crowd": 0,
+        "annotation_case": [
+            "slag inclusion"
+        ],
+        "total_case": [
+            "slag inclusion"
+        ]
+    },
+    "annotations": [
+        {
+            "tool": "polygon",
+            "coordinate": {
+                "x": [
+                    604,
+                    532,
+                    524,
+                    576,
+                    652,
+                    700,
+                    728,
+                    728,
+                    708
+                ],
+                "y": [
+                    426,
+                    406,
+                    358,
+                    322,
+                    314,
+                    318,
+                    334,
+                    362,
+                    398
+                ]
+            },
+            "class": "defect",
+            "case": "slag inclusion"
+        }
+    ]
+}
