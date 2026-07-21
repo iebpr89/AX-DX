@@ -1,0 +1,48 @@
+{
+  "architectures": [
+    "ViTForImageClassification"
+  ],
+  "attention_probs_dropout_prob": 0.0,
+  "dtype": "float32",
+  "encoder_stride": 16,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 192,
+  "id2label": {
+    "0": "crack",
+    "1": "incomplete penetration",
+    "2": "lack of fusion",
+    "3": "lack of fusion + porosity",
+    "4": "normal",
+    "5": "porosity",
+    "6": "porosity + slag inclusion",
+    "7": "slag inclusion",
+    "8": "undercut"
+  },
+  "image_size": 224,
+  "initializer_range": 0.02,
+  "intermediate_size": 768,
+  "label2id": {
+    "crack": 0,
+    "incomplete penetration": 1,
+    "lack of fusion": 2,
+    "lack of fusion + porosity": 3,
+    "normal": 4,
+    "porosity": 5,
+    "porosity + slag inclusion": 6,
+    "slag inclusion": 7,
+    "undercut": 8
+  },
+  "layer_norm_eps": 1e-12,
+  "model_type": "vit",
+  "num_attention_heads": 3,
+  "num_channels": 3,
+  "num_hidden_layers": 12,
+  "patch_size": 16,
+  "pooler_act": "tanh",
+  "pooler_output_size": 192,
+  "problem_type": "single_label_classification",
+  "qkv_bias": true,
+  "transformers_version": "5.14.1",
+  "use_cache": false
+}

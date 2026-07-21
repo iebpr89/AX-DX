@@ -1,0 +1,13 @@
+﻿,precision,recall,f1-score,support
+crack,0.2,1.0,0.3333333333333333,1.0
+incomplete penetration,0.0,0.0,0.0,2.0
+lack of fusion,0.0,0.0,0.0,0.0
+lack of fusion + porosity,0.0,0.0,0.0,0.0
+normal,0.0,0.0,0.0,0.0
+porosity,0.0,0.0,0.0,3.0
+porosity + slag inclusion,0.0,0.0,0.0,0.0
+slag inclusion,0.0,0.0,0.0,2.0
+undercut,0.0,0.0,0.0,2.0
+accuracy,0.1,0.1,0.1,0.1
+macro avg,0.022222222222222223,0.1111111111111111,0.037037037037037035,10.0
+weighted avg,0.02,0.1,0.03333333333333333,10.0

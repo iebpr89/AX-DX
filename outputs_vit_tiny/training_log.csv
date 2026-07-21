@@ -1,0 +1,4 @@
+﻿eval_loss,eval_accuracy,eval_runtime,eval_samples_per_second,eval_steps_per_second,epoch,step,train_runtime,train_samples_per_second,train_steps_per_second,total_flos,train_loss
+2.289124011993408,0.1,0.7128,14.03,7.015,1.0,5,,,,,
+,,,,,1.0,5,1.8775,5.326,2.663,49910445527040.0,2.146483039855957
+2.289124011993408,0.1,0.8551,11.695,5.847,1.0,5,,,,,
